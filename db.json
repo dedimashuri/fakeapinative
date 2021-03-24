@@ -67,12 +67,19 @@
       ],
       "users" : [
             {
-              "id": 2,
-              "username": 'dedi',
-              "password": 123,
-              "role": 'admin',
+              "id": 1,
+              "username": "dedi",
+              "password": "abcd",
+              "role": "admin",
               "cart": [],
-            }
+            },
+           {
+              "id": 2,
+              "username": "jhon",
+              "password": "abcd",
+              "role": "user",
+              "cart": [],
+            },
       ],
       "transaction": []
 }
