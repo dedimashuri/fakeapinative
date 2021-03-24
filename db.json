@@ -71,15 +71,15 @@
               "username": "dedi",
               "password": "abcd",
               "role": "admin",
-              "cart": [],
+              "cart": []
             },
            {
               "id": 2,
               "username": "jhon",
               "password": "abcd",
               "role": "user",
-              "cart": [],
-            },
+              "cart": []
+            }
       ],
       "transaction": []
 }
